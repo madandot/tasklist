@@ -1,12 +1,8 @@
-import Display from "./components/Display";
-import TodoList from "./components/TodoList";
-
 export default function Home() {
    return (
       <>
-         <div className=' '>
-            <TodoList />
-            <Display />
+         <div className='text-3xl'>
+            <h1>Todo List</h1>
          </div>
       </>
    );
