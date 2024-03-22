@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1025px) and (min-width: 767px) {
+  .one {
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+
+  .Nav-items {
+    display: none;
+  }
+
+  .FaBars {
+    display: flex;
+  }
+
+}
